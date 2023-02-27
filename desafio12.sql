@@ -1,0 +1,1 @@
+SELECT submitted_date FROM purchase_orders LIMIT 3 OFFSET 25;

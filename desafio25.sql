@@ -1,2 +1,2 @@
 DELETE FROM order_details
-WHERE order_details < 10.000;
+WHERE unit_price < 10.000;
